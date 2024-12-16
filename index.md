@@ -1,4 +1,4 @@
 ---
-title: #Welcome to Luke's Blog
+title: Welcome to Luke's Blog
 ---
 
